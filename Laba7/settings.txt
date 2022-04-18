@@ -1,0 +1,2 @@
+Sample frequency: 12.268362939475795 hz
+ADC quantum step: 0.012890625 v
